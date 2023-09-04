@@ -15,5 +15,5 @@ const person = {
     lastname: "Bergersen",
     age: 23,
     hobbies: ["Trombone", "Manga", "Gaming"]}
-const Magnus= persons[0]
+const Magnus= person[0]
 console.log(person[0].firstname)
