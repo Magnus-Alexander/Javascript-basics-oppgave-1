@@ -17,3 +17,4 @@ const person = {
     hobbies: ["Trombone", "Manga", "Gaming"]}
 const Magnus= person[0]
 console.log(person[0].firstname)
+
