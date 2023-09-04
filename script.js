@@ -10,11 +10,10 @@ console.log(musikkInstrumenter[roundedNumber])
 console.log(`Dette er Index 5: ${musikkInstrumenter[5]} `)
 
 // oppgave 2
-// const person = {
-//     firstname: "Magnus",
-//     lastname: "Bergersen",
-//     age: 23,
-//     hobbies: ["Trombone", "Manga", "Gaming"]}
-// }
-// const Magnus= persons[0]
-// console.log(person[0].firstname)
+const person = {
+    firstname: "Magnus",
+    lastname: "Bergersen",
+    age: 23,
+    hobbies: ["Trombone", "Manga", "Gaming"]}
+const Magnus= persons[0]
+console.log(person[0].firstname)
