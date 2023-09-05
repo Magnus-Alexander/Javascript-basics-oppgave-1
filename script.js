@@ -30,3 +30,8 @@ console.log(Character[0].hobbies)
 console.log(Character[1].firstname)
 console.log(Character[1].lastname)
 console.log(Character[1].hobbies)
+
+
+// oppgave 3
+let alder = 18
+alder <= 117 ? console.log("Du kan kjøpe tobakk") : console.log("Du er for ung til å kjøpe tobakk")
