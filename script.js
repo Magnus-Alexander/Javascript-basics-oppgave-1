@@ -15,7 +15,7 @@ const Character = [{
     firstname: "Luffy",
     lastname: "Monkey",
     age: 19,
-    hobbies: ["Fighting", "Eating", "Exploration"]
+    hobbies: ["Fighting", "Eating", "Exploring"]
 },
 {
     firstname: "Fred",
