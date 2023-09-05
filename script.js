@@ -10,3 +10,23 @@ console.log(musikkInstrumenter[roundedNumber])
 console.log(`Dette er Index 5: ${musikkInstrumenter[5]} `)
 
 // oppgave 2
+const Character = [{
+
+    firstname: "Luffy",
+    lastname: "Monkey",
+    age: 19,
+    hobbies: ["Fighting", "Eating", "Exploration"]
+},
+{
+    firstname: "Fred",
+    lastname: "Flintstone",
+    age: 44,
+    hobbies: ["Bowling", "Poker", "Pool"]
+}
+]
+console.log(Character[0].firstname)
+console.log(Character[0].lastname)
+console.log(Character[0].hobbies)
+console.log(Character[1].firstname)
+console.log(Character[1].lastname)
+console.log(Character[1].hobbies)
